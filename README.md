@@ -13,6 +13,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Generate images via fal.ai API without any limitations
 - All results are stored in local gallery via local storage
 
+## Requirements
+
+- Node.js  20+
+
 ## Getting Started
 
 First, create a new env file 
